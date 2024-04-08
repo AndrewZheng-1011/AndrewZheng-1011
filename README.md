@@ -2,9 +2,6 @@
 
 <!--
 **AndrewZheng-1011/AndrewZheng-1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a recently graduated M.S. Thesis student from Clemson University and am looking for roles in robot motion planning and optimal control.
+You can check my personal website for some of the works that I have tackled / am current tackling: https://andrewzheng-1011.github.io/ 
